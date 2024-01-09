@@ -4,7 +4,7 @@ import logo from "../assets/logo.svg";
 
 const Sidebar = () => {
   return (
-    <Box bg={"#1E2640"}>
+    <Box bg={"#1E2640"} color={"#ffffff"}>
       <VStack
         w={"full"}
         px={"10px"}
