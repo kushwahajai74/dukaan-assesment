@@ -1,0 +1,30 @@
+.searchbar {
+  width: 100%;
+  background-color: #f2f2f2;
+  border: none;
+  color: black;
+}
+.searchbar::-webkit-input-placeholder {
+  color: #808080;
+}
+
+input::placeholder {
+  font: "Inter", sans-serif;
+  font-size: 13px;
+}
+
+input:focus {
+  outline: none;
+}
+.css-12t8qlj {
+  border-color: #e6e6e6 !important;
+}
+.css-1gal4zc {
+  padding: 0px 0px 0px 8px !important;
+  font-family: "Inter", sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  border-bottom: none !important;
+  text-transform: none !important;
+  color: black !important;
+}
