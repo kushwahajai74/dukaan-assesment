@@ -532,6 +532,7 @@ const Sidebar = () => {
             background: "rgba(255, 255, 255, 0.10)",
             borderRadius: 4,
           }}
+          spacing={4}
         >
           <Icon boxSize={6}>
             <svg
