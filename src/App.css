@@ -28,3 +28,6 @@ input:focus {
   text-transform: none !important;
   color: black !important;
 }
+button {
+  outline: none !important;
+}
